@@ -1,2 +1,2 @@
-# Project-CELLULAR
-The Cell-to-Wheel Operating System for Industrial Electrification
+# PROJECT CELLULAR
+The Cell-to-Wheel Operating System for Industrial Electrification.
